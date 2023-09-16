@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "title": "The Great Adventure",
+    "cover": "https://i.ibb.co/R01HJZr/blog1.jpg",
+    "author": "John Smith",
+    "author_img": "https://i.ibb.co/W3Rcb3n/boy1.png",
+    "posted_date": "2023-09-14",
+    "reading_time": 120,
+    "hashtags": ["adventure", "books", "fiction"]
+  },
+  {
+    "id": 2,
+    "title": "Cooking Made Easy",
+    "cover": "https://i.ibb.co/P1TGJk6/blog2.png",
+    "author": "Alice Johnson",
+    "author_img": "https://i.ibb.co/7bNSw2j/boy2.jpg",
+    "posted_date": "2023-09-12",
+    "reading_time": 90,
+    "hashtags": ["cooking", "recipes", "food"]
+  },
+  {
+    "id": 3,
+    "title": "The Art of Painting",
+    "cover": "https://i.ibb.co/640Rb22/blog3.png",
+    "author": "Emily Davis",
+    "author_img": "https://i.ibb.co/yyHkMTX/girl1.jpg",
+    "posted_date": "2023-09-10",
+    "reading_time": 60,
+    "hashtags": ["art", "painting", "creativity"]
+  },
+  {
+    "id": 4,
+    "title": "Tech Innovations 2023",
+    "cover": "https://i.ibb.co/bvkrCKx/blog4.jpg",
+    "author": "David Lee",
+    "author_img": "https://i.ibb.co/RvTNjkK/girl2.jpg",
+    "posted_date": "2023-09-08",
+    "reading_time": 100,
+    "hashtags": ["technology", "innovation", "gadgets"]
+  }
+]
